@@ -1,8 +1,15 @@
 .pokemonCard {
   cursor: pointer;
-  margin-bottom: 10px;
-  padding: 10px;
+   margin-top: 15px;
+   margin-bottom: 15px; 
+  padding: 2px;
   border: 1px solid #ccc;
   border-radius: 5px;
-  text-align: center;
+
+  
+}
+.col-sm-3 {
+  padding-left: 0;
+  padding-right: 0;
+
 }
